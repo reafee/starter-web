@@ -7,3 +7,6 @@ Just simple example
 ##Deployment
 no thing yet
 ##How To Contribute
+
+## Copyright
+copyright 2015
